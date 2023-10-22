@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """<b>
-Hy {},
-I'm a bot made for @Cinema_Beacon_Group!  I can help you find movies.🙂 For any enquiry contact Admin @SNEAK5166</b>"""
+Hᴇʟʟᴏ {},
+Mʏ Nᴀᴍᴇ Is 𝗠𝞓𝗦᳅𝜩𝗥, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
 
     CAPTION = """
 <b>{file_name}
 
-⚜️ Join @Cinema_Beacon_Group​</b>"""
+⚜️ Join @moviesworld_malayalam​</b>"""
 
     
     HELP_TXT = """<i>🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
